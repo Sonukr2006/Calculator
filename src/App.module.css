@@ -1,0 +1,20 @@
+
+.styles{
+  border: 2px solid brown;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+center{
+  margin-top: auto;
+  
+}

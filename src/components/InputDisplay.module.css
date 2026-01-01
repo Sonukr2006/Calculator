@@ -1,0 +1,12 @@
+
+.styles{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 80px;
+    margin: 10px;
+    margin-top: 30px;
+    width: 400px;
+    font-size: 25px;
+    color: brown;
+    font-weight: 500;
+}
